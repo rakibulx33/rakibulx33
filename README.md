@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a **🚀 Computer Science & Engineering (CSE) 
 ---
 
 ## 📌 Projects
-🚍 **DIU Bus Management System** (📂 C-based, file handling & data structures)
-💥 **Grid-Based Game** (🎮 Customizable mechanics, ESP8266)
-🌐 **Python Web Automation Projects** (🤖 Automating tasks with Selenium, BeautifulSoup, and Requests)
+- 🚍 **DIU Bus Management System** (📂 C-based, file handling & data structures)
+- 💥 **Grid-Based Game** (🎮 Customizable mechanics, ESP8266)
+- 🌐 **Python Web Automation Projects** (🤖 Automating tasks with Selenium, BeautifulSoup, and Requests)
 
 More projects are coming soon! 🚀
 
