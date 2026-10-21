@@ -124,7 +124,17 @@ PING rakibul (rakibulx33.me): 56 data bytes
 --- 3 packets transmitted, 3 received, 0% packet loss ---
 ```
 
-I take on freelance backend, automation and e-commerce work. Email is the fastest way to reach me: **[rakibulx33@gmail.com](mailto:rakibulx33@gmail.com)**. You can also find me on [LinkedIn](https://www.linkedin.com/in/rakibulx33) or at **[rakibulx33.me](https://rakibulx33.me)**.
+I take on freelance backend, automation and e-commerce work. The quickest start is a 30-second project brief: open **[rakibulx33.me](https://rakibulx33.me)** and run `hire`. Or email me at **[rakibulx33@gmail.com](mailto:rakibulx33@gmail.com)**.
+
+I'm **@rakibulx33** everywhere. Profiles in order of how useful they are for working together:
+
+| For | Profiles |
+| :-- | :-- |
+| **Hire** | [GitHub](https://github.com/rakibulx33) · [LinkedIn](https://www.linkedin.com/in/rakibulx33) · [Fiverr](https://www.fiverr.com/rakibulx33) |
+| **Message** | [Telegram](https://t.me/rakibulx33) |
+| **Social** | [Facebook](https://www.facebook.com/rakibulx33) · [X](https://x.com/rakibulx33) · [YouTube](https://www.youtube.com/@rakibulx33) · [Instagram](https://www.instagram.com/rakibulx33) |
+| **Skills** | [Kaggle](https://www.kaggle.com/rakibulx33) · [Codeforces](https://codeforces.com/profile/rakibulx33) · [LeetCode](https://leetcode.com/u/rakibulx33) · [AtCoder](https://atcoder.jp/users/rakibulx33) · [CodeChef](https://www.codechef.com/users/rakibulx33) |
+| **Personal** | [Reddit](https://www.reddit.com/user/rakibulx33) · [TikTok](https://www.tiktok.com/@rakibulx33) · [Snapchat](https://www.snapchat.com/add/rakibulx33) |
 
 <br>
 
